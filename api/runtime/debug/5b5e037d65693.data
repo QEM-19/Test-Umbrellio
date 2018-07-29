@@ -1,0 +1,396 @@
+a:12:{s:6:"config";s:1768:"a:5:{s:10:"phpVersion";s:22:"7.2.7-0ubuntu0.18.04.2";s:10:"yiiVersion";s:8:"2.0.15.1";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.15.1";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:5:"en-US";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:22:"7.2.7-0ubuntu0.18.04.2";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:6:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.1.1.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:77:"/home/qem/PhpstormProjects/test-umbrellio/vendor/yiisoft/yii2-swiftmailer/src";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:75:"/home/qem/PhpstormProjects/test-umbrellio/vendor/yiisoft/yii2-bootstrap/src";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.13.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:67:"/home/qem/PhpstormProjects/test-umbrellio/vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:69:"/home/qem/PhpstormProjects/test-umbrellio/vendor/yiisoft/yii2-gii/src";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:67:"/home/qem/PhpstormProjects/test-umbrellio/vendor/yiisoft/yii2-faker";}}s:16:"maxwen/yii2-curl";a:3:{s:4:"name";s:16:"maxwen/yii2-curl";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@maxwen/yii/curl";s:65:"/home/qem/PhpstormProjects/test-umbrellio/vendor/maxwen/yii2-curl";}}}}";s:7:"request";s:2029:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:3:{s:6:"accept";s:3:"*/*";s:10:"user-agent";s:31:"Curl/PHP 7.2.7-0ubuntu0.18.04.2";s:4:"host";s:15:"umbrellio.local";}s:15:"responseHeaders";a:4:{s:12:"Content-Type";s:24:"text/html; charset=UTF-8";s:11:"X-Debug-Tag";s:13:"5b5e037d65693";s:16:"X-Debug-Duration";s:2:"53";s:12:"X-Debug-Link";s:37:"/debug/default/view?tag=5b5e037d65693";}s:5:"route";s:12:"api/set-rate";s:6:"action";s:46:"api\controllers\ApiController::actionSetRate()";s:12:"actionParams";a:2:{i:0;s:5:"21712";i:1;s:1:"3";}s:7:"general";a:5:{s:6:"method";s:3:"GET";s:6:"isAjax";b:0;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:0:{}s:6:"SERVER";a:29:{s:4:"USER";s:8:"www-data";s:4:"HOME";s:8:"/var/www";s:11:"HTTP_ACCEPT";s:3:"*/*";s:15:"HTTP_USER_AGENT";s:31:"Curl/PHP 7.2.7-0ubuntu0.18.04.2";s:9:"HTTP_HOST";s:15:"umbrellio.local";s:15:"REDIRECT_STATUS";s:3:"200";s:11:"SERVER_NAME";s:15:"umbrellio.local";s:11:"SERVER_PORT";s:2:"80";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"REMOTE_PORT";s:5:"40932";s:11:"REMOTE_ADDR";s:9:"127.0.0.1";s:15:"SERVER_SOFTWARE";s:12:"nginx/1.14.0";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:14:"REQUEST_SCHEME";s:4:"http";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:13:"DOCUMENT_ROOT";s:49:"/home/qem/PhpstormProjects/test-umbrellio/api/web";s:12:"DOCUMENT_URI";s:10:"/index.php";s:11:"REQUEST_URI";s:39:"/api/set-rate/?postId=21712&rateValue=3";s:11:"SCRIPT_NAME";s:10:"/index.php";s:14:"CONTENT_LENGTH";s:0:"";s:12:"CONTENT_TYPE";s:0:"";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:24:"postId=21712&rateValue=3";s:15:"SCRIPT_FILENAME";s:59:"/home/qem/PhpstormProjects/test-umbrellio/api/web/index.php";s:9:"PATH_INFO";s:0:"";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:8:"PHP_SELF";s:10:"/index.php";s:18:"REQUEST_TIME_FLOAT";d:1532887933.413923;s:12:"REQUEST_TIME";i:1532887933;}s:3:"GET";a:2:{s:6:"postId";s:5:"21712";s:9:"rateValue";s:1:"3";}s:4:"POST";a:0:{}s:6:"COOKIE";a:0:{}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}";s:3:"log";s:8724:"a:1:{s:8:"messages";a:14:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1532887933.414695;i:4;a:0:{}i:5;i:912520;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1532887933.414714;i:4;a:0:{}i:5;i:913696;}i:2;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1532887933.415348;i:4;a:0:{}i:5;i:1166088;}i:3;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1532887933.415589;i:4;a:0:{}i:5;i:1260608;}i:4;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1532887933.415641;i:4;a:0:{}i:5;i:1266280;}i:11;a:6:{i:0;s:32:"Route requested: 'api/set-rate/'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1532887933.4159;i:4;a:0:{}i:5;i:1291120;}i:12;a:6:{i:0;s:26:"Route to run: api/set-rate";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1532887933.416031;i:4;a:0:{}i:5;i:1308888;}i:13;a:6:{i:0;s:62:"Running action: api\controllers\ApiController::actionSetRate()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1532887933.416082;i:4;a:0:{}i:5;i:1313008;}i:14;a:6:{i:0;s:54:"Opening DB connection: pgsql:host=localhost;dbname=yii";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1532887933.416347;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1530392;}i:17;a:6:{i:0;s:2529:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != ''
+    AND c.relname = 'rating'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.424588;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1547768;}i:20;a:6:{i:0;s:874:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='rating'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.435779;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1561560;}i:23;a:6:{i:0;s:61:"SELECT EXISTS(SELECT * FROM "post" WHERE "post"."id"='21712')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.44175;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:122;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:54;s:8:"function";s:14:"createResponse";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1814152;}i:26;a:6:{i:0;s:74:"INSERT INTO "rating" ("post_id", "value") VALUES (21712, 3) RETURNING "id"";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.443475;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:122;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:54;s:8:"function";s:14:"createResponse";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1814648;}i:29;a:6:{i:0;s:55:"SELECT AVG(value) FROM "rating" WHERE "post_id"='21712'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.461572;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:112;s:8:"function";s:7:"average";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:57;s:8:"function";s:14:"getAverageRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1820416;}}}";s:9:"profiling";s:15002:"a:3:{s:6:"memory";i:1824896;s:4:"time";d:0.05269312858581543;s:8:"messages";a:12:{i:15;a:6:{i:0;s:54:"Opening DB connection: pgsql:host=localhost;dbname=yii";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1532887933.416371;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1531896;}i:16;a:6:{i:0;s:54:"Opening DB connection: pgsql:host=localhost;dbname=yii";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1532887933.424441;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1533808;}i:18;a:6:{i:0;s:2529:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != ''
+    AND c.relname = 'rating'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.424647;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1557216;}i:19;a:6:{i:0;s:2529:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != ''
+    AND c.relname = 'rating'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.435357;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1564976;}i:21;a:6:{i:0;s:874:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='rating'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.435832;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1566064;}i:22;a:6:{i:0;s:874:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='rating'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.44035;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1568872;}i:24;a:6:{i:0;s:61:"SELECT EXISTS(SELECT * FROM "post" WHERE "post"."id"='21712')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.441809;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:122;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:54;s:8:"function";s:14:"createResponse";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1817272;}i:25;a:6:{i:0;s:61:"SELECT EXISTS(SELECT * FROM "post" WHERE "post"."id"='21712')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.442935;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:122;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:54;s:8:"function";s:14:"createResponse";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1819256;}i:27;a:6:{i:0;s:74:"INSERT INTO "rating" ("post_id", "value") VALUES (21712, 3) RETURNING "id"";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.443513;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:122;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:54;s:8:"function";s:14:"createResponse";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1816152;}i:28;a:6:{i:0;s:74:"INSERT INTO "rating" ("post_id", "value") VALUES (21712, 3) RETURNING "id"";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.460885;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:122;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:54;s:8:"function";s:14:"createResponse";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1818584;}i:30;a:6:{i:0;s:55:"SELECT AVG(value) FROM "rating" WHERE "post_id"='21712'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.46163;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:112;s:8:"function";s:7:"average";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:57;s:8:"function";s:14:"getAverageRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1822864;}i:31;a:6:{i:0;s:55:"SELECT AVG(value) FROM "rating" WHERE "post_id"='21712'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.465571;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:112;s:8:"function";s:7:"average";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:57;s:8:"function";s:14:"getAverageRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1824896;}}}";s:2:"db";s:13776:"a:1:{s:8:"messages";a:10:{i:18;a:6:{i:0;s:2529:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != ''
+    AND c.relname = 'rating'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.424647;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1557216;}i:19;a:6:{i:0;s:2529:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != ''
+    AND c.relname = 'rating'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.435357;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1564976;}i:21;a:6:{i:0;s:874:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='rating'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.435832;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1566064;}i:22;a:6:{i:0;s:874:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='rating'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.44035;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1568872;}i:24;a:6:{i:0;s:61:"SELECT EXISTS(SELECT * FROM "post" WHERE "post"."id"='21712')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.441809;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:122;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:54;s:8:"function";s:14:"createResponse";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1817272;}i:25;a:6:{i:0;s:61:"SELECT EXISTS(SELECT * FROM "post" WHERE "post"."id"='21712')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.442935;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:122;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:54;s:8:"function";s:14:"createResponse";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1819256;}i:27;a:6:{i:0;s:74:"INSERT INTO "rating" ("post_id", "value") VALUES (21712, 3) RETURNING "id"";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.443513;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:122;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:54;s:8:"function";s:14:"createResponse";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1816152;}i:28;a:6:{i:0;s:74:"INSERT INTO "rating" ("post_id", "value") VALUES (21712, 3) RETURNING "id"";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.460885;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:122;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:54;s:8:"function";s:14:"createResponse";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1818584;}i:30;a:6:{i:0;s:55:"SELECT AVG(value) FROM "rating" WHERE "post_id"='21712'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.46163;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:112;s:8:"function";s:7:"average";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:57;s:8:"function";s:14:"getAverageRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1822864;}i:31;a:6:{i:0;s:55:"SELECT AVG(value) FROM "rating" WHERE "post_id"='21712'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532887933.465571;i:4;a:3:{i:0;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:112;s:8:"function";s:7:"average";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/qem/PhpstormProjects/test-umbrellio/api/services/ApiService.php";s:4:"line";i:57;s:8:"function";s:14:"getAverageRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/home/qem/PhpstormProjects/test-umbrellio/api/controllers/ApiController.php";s:4:"line";i:46;s:8:"function";s:7:"setRate";s:5:"class";s:23:"api\services\ApiService";s:4:"type";s:2:"->";}}i:5;i:1824896;}}}";s:6:"assets";s:6:"a:0:{}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:89:"a:3:{s:5:"start";d:1532887933.4141;s:3:"end";d:1532887933.466958;s:6:"memory";i:1824896;}";s:4:"user";s:2:"N;";s:6:"router";s:1156:"a:1:{s:8:"messages";a:6:{i:5;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532887933.415852;i:4;a:0:{}i:5;i:1287120;}i:6;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532887933.415865;i:4;a:0:{}i:5;i:1287912;}i:7;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532887933.415873;i:4;a:0:{}i:5;i:1288744;}i:8;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532887933.415879;i:4;a:0:{}i:5;i:1289528;}i:9;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532887933.415886;i:4;a:0:{}i:5;i:1290680;}i:10;a:6:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532887933.41589;i:4;a:0:{}i:5;i:1291056;}}}";s:7:"summary";a:9:{s:3:"tag";s:13:"5b5e037d65693";s:3:"url";s:61:"http://umbrellio.local/api/set-rate/?postId=21712&rateValue=3";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:9:"127.0.0.1";s:4:"time";d:1532887933.413923;s:10:"statusCode";i:200;s:8:"sqlCount";i:5;s:9:"mailCount";i:0;}s:10:"exceptions";a:0:{}}
